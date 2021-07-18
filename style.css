@@ -1,0 +1,36 @@
+.heading{
+ width: 100%;   
+ margin:0px;
+ font-size:25px;
+ box-shadow:7px 7px 7px rebeccapurple;
+}
+
+.heading1{
+ float:none;
+ background-color: rgb(255, 238, 6);   
+ padding: 10px;
+ border-radius:20px ;
+ box-shadow: 7px 7px 7px red;
+}
+
+.result{
+ font-size: 23px;   
+box-shadow: 7px 7px 7px red;
+}
+
+.footer{
+ position:fixed;
+ width:100%;
+ bottom:0;   
+ color: rgb(251, 251, 251);
+ font-size: 15px;
+ background-color: rgb(255, 154, 230);
+ margin-top: 150px;
+}
+
+Canvas{
+ border-radius:40px ;   
+ box-shadow: 10px 10px 10px rgb(61, 61, 66);
+ border:15px solid rgb(40, 4, 246);
+
+}
